@@ -8,6 +8,7 @@
 <ul>
   <li>Opencv library</li>
   <li>flask (install flask using pip install flask)</li>
+  <li> Harrcascade Classifier file</li>
 </ul>
 
 </br>
