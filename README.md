@@ -5,10 +5,10 @@
 
 <br>
 <h1>Requirement</h1>
-<li>
-  <ul>Opencv library</ul>
-  <ul>flask (install flask using pip install flask)</ul>
-</li>
+<ul>
+  <li>Opencv library</li>
+  <li>flask (install flask using pip install flask)</li>
+</ul>
 
 </br>
 
